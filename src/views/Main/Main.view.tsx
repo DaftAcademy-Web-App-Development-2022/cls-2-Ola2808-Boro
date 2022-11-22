@@ -1,5 +1,5 @@
 import React from "react";
-import { PlaylistModelWithId } from "~/models/playlist.model";
+import { PlaylistModelWithId } from "../../models/playList.model";
 import { GridList, GridListItem } from "~/components";
 
 interface Props {
