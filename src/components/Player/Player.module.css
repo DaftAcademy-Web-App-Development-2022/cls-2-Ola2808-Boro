@@ -1,0 +1,7 @@
+.root {
+    @apply p-2 flex w-full items-center ;
+}
+
+.conatiner{
+   @apply  w-full px-2
+}

@@ -1,6 +1,6 @@
 .wrapper{
-    @apply w-full rounded-md bg-gray-400 h-2 
+    @apply w-full h-2 bg-ui4 rounded my-2 ;
 }
 .progress{
-    @apply w-0 rounded-md bg-white h-full 
+    @apply w-0 h-full bg-white rounded;
 }
